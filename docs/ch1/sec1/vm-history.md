@@ -78,7 +78,7 @@ Simics 后期加入了时序建模能力（timing models），但其默认模式
 
 让我们把视角再次转回到开源世界：
 
-GM（General Execution-driven Multiprocessor Simulator）和 GEMS（General Execution-driven Multiprocessor Simulator）是由威斯康星大学麦迪逊分校开发的一系列高性能多处理器模拟器。它们专注于模拟大规模并行系统的内存子系统和缓存层次结构。
+GM（General Multiprocessor simulator）和 GEMS（General Execution-driven Multiprocessor Simulator）是由威斯康星大学麦迪逊分校开发的一系列高性能多处理器模拟器。它们专注于模拟大规模并行系统的内存子系统和缓存层次结构。
 
 GEMS 的核心贡献之一就是构建了一个高度可配置、支持细粒度建模的多处理器内存系统仿真框架。而 GM 主要是处理器方面。
 
