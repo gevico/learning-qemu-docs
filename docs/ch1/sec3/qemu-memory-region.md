@@ -224,7 +224,8 @@ system_memory 是一个全局变量指针，指向 mr 的根节点，我们可�
 
 ```bash
 $gdb ./build/qemu-system-riscv64
-(gdb) b memory_map_initBreakpoint 1 at 0x6a1626: file ../system/physmem.c, line 2557.
+(gdb) b memory_map_init
+Breakpoint 1 at 0x6a1626: file ../system/physmem.c, line 2557.
 (gdb) run
 (gdb) watch system_memory->ops
 (gdb) c
