@@ -7,7 +7,7 @@ QEMU 训练营（2025）自 2025 年 7 月 30 日启动筹备工作，历时三�
     - [@zevorn][github/zevorn]：作为训练营的组织者，负责课程体系规划、项目设计、课程授课等环节
     - [@kunyuanxu-star][github/kunyuanxu-star]：作为训练营的老师，负责训练营平台搭建、测评工具维护等环节
     - [@luojia65][github/luojia65]：作为训练营的讲师，负责 Rust In QEMU 相关的课程设计与讲授
-    - [@Leo-Hou][github/LeoHou]：作为训练营的讲师，负责虚拟化相关的课程设计与讲授
+    - [@Leo-Hou][github/Leo-Hou]：作为训练营的讲师，负责虚拟化相关的课程设计与讲授
     - [@ChenMiaoi][github/ChenMiaoi]：作为训练营的助教，负责在线讲义维护、基础阶段的课程辅导、实验指导等环节
     - [@polypopopo][github/polypopopo]：作为训练营的助教，负责基础阶段的课程辅导、实验指导等环节
     - [@stever178][github/stever178]：作为训练营的助教，负责专业阶段的课程辅导、实验指导等环节
@@ -18,7 +18,7 @@ QEMU 训练营（2025）自 2025 年 7 月 30 日启动筹备工作，历时三�
 [github/zevorn]: https://github.com/zevorn
 [github/kunyuanxu-star]: https://github.com/kunyuanxu-star
 [github/luojia65]: https://github.com/luojia65
-[github/LEO-Hou]:https://github.com/LeoHou
+[github/Leo-Hou]:https://github.com/Leo-Hou
 [github/stever178]: https://github.com/stever178
 [github/ChenMiaoi]: https://github.com/ChenMiaoi
 [github/polypopopo]: https://github.com/polypopopo
